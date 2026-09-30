@@ -1,0 +1,4 @@
+{
+  "script": "http_proxy='' https_proxy='' PORT=89 npm run start",
+  "name": "PLANNER-APP-GCIR"
+}
